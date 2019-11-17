@@ -95,6 +95,8 @@ class Color(DefaultColor):
     GIT_CONFLICTED_FG = light0
     GIT_STASH_BG = neutral_yellow
     GIT_STASH_FG = dark0
+    GIT_HEAD_HASH_BG = bright_green
+    GIT_HEAD_HASH_FG = dark0
 
     VIRTUAL_ENV_BG = faded_green
     VIRTUAL_ENV_FG = light0

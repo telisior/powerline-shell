@@ -61,6 +61,9 @@ class DefaultColor(object):
     GIT_STASH_BG = 221
     GIT_STASH_FG = 0
 
+    GIT_HEAD_HASH_BG = 150
+    GIT_HEAD_HASH_FG = 0
+
     VIRTUAL_ENV_BG = 35  # a mid-tone green
     VIRTUAL_ENV_FG = 00
 
